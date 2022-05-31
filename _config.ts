@@ -4,7 +4,7 @@ import code_highlight from "lume/plugins/code_highlight.ts";
 import date from "lume/plugins/date.ts";
 import id from "https://deno.land/x/date_fns/locale/id/index.js";
 import inline from "lume/plugins/inline.ts";
-import minify from "https://raw.githubusercontent.com/lumeland/experimental-plugins/main/minify/minify.ts"
+//import minify from "https://raw.githubusercontent.com/lumeland/experimental-plugins/main/minify/minify.ts"
 
 
 const site = lume({
