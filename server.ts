@@ -1,8 +1,8 @@
 import Server from "https://deno.land/x/lume/core/server.ts";
-import expires from"https://deno.land/x/lume/middleware/expires.ts";
+import expires from"https://deno.land/x/lume/middlewares/expires.ts";
 
 const s = new Server({
-   port: 8000;
+   port: 8080,
    root: `${Deno.cwd()}/_site`,
 })
 
