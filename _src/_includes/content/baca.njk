@@ -1,0 +1,44 @@
+{% include './../layouts/header.njk' %}
+
+<h3 class="judul">{{ title }}</h3>
+<p class="subtitle">{{ subtitle or ringkasan }}</p>
+
+<div class="selayang">
+			<div class="selayang__cover">
+            <img class="layang" src="{{ coverImg }}" alt="">
+			</div>
+			<div class="selayang__meta">
+				<dl>
+               <dt>Penulis</dt>
+               <dd>{{ penulis }}</dd>
+               <dt>Bahasa</dt>
+               <dd>{{ bahasa }}</dd>
+               <dt>Format</dt>
+               <dd>{{ format }}</dd>
+               <dt>ISBN</dt>
+               <dd>{{ isbn }}∷ {{ tahun }}</dd>
+               <dt>Rating</dt>
+               <dd><a href="/baca/rating">{{ rating }} dari 5</a></dd>
+               <dt>Beli dimana?</dt>
+               <dd><a href="{{ beli }}" target="_blank">{{ dimana }}</a></dd>
+            </dl>
+			</div>
+</div>
+{{ content | safe }}
+
+<div class="post-navigation">
+   <div class="nav_kiri"> 
+      {%- set previousPost = search.previousPage(url, "jurnal") %}
+      {%- if previousPost %}
+      <strong>← <a href="{{ previousPost.data.url }}" rel="prev">{{ previousPost.data.title }}</a></strong>
+      {% endif %}
+   </div>
+   <div class="nav_kanan">
+      {%- set nextPost = search.nextPage(url, "jurnal") %}
+      {%- if nextPost %}
+      <strong><a href="{{ nextPost.data.url }}" rel="next">{{ nextPost.data.title }}</a> →</strong>
+      {% endif %}
+   </div>
+</div>
+{% include './../content/subs.njk' %}
+{% include './../layouts/footer.njk' %}

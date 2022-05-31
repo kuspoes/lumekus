@@ -1,0 +1,24 @@
+{% include './../layouts/header.njk' %}
+
+<h3 class="judul">{{ title }}</h3>
+<p class="subtitle">{{ subtitle or ringkasan }}</p>
+
+{{ content | safe }}
+
+<div class="post-navigation">
+   <div class="nav_kiri"> 
+      {%- set previousPost = search.previousPage(url, "jurnal") %}
+      {%- if previousPost %}
+      <strong>← <a href="{{ previousPost.data.url }}" rel="prev">{{ previousPost.data.title }}</a></strong>
+      {% endif %}
+   </div>
+   <div class="nav_kanan">
+      {%- set nextPost = search.nextPage(url, "jurnal") %}
+      {%- if nextPost %}
+      <strong><a href="{{ nextPost.data.url }}" rel="next">{{ nextPost.data.title }}</a> →</strong>
+      {% endif %}
+   </div>
+
+</div>
+{% include './../content/subs.njk' %}
+{% include './../layouts/footer.njk' %}
