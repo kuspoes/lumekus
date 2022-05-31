@@ -30,13 +30,13 @@ site.use(base_path())
           id
        }
     }))
-    .use(minify({
-        extensions: [".css", ".html", ".js"],
-        htmlOptions: {
-            minifyCSS: true,
-            minifyJS: true
-        }
-    }))
+    //.use(minify({
+    //    extensions: [".css", ".html", ".js"],
+    //    htmlOptions: {
+    //        minifyCSS: true,
+    //        minifyJS: true
+    //    }
+    //}))
     .copy("assets")
     .copy("404.html")
     .loadAssets([".css"])
