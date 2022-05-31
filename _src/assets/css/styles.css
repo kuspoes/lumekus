@@ -5,22 +5,26 @@
 @font-face {
 	font-family: "Tiempo";
 	src: url(../../assets/css/fonts/Tiempo-Bold_44533.ttf);
+	font-display: swap;
 }
 @font-face {
 		font-family: "Chunk";
 		src: url("../../assets/css/fonts/ChunkFive-Regular.woff2") format("woff2"),
 		url("../../assets/css/fonts/ChunkFive-Regular.woff") format("woff");
+		font-display: swap;
 		}
 @font-face {
 		font-family: "Anko";
 		src: url("../../assets/css/fonts/Anko.otf") format("opentype"),
 		url("../../assets/css/fonts/Anko.otf") format("opentype");
+		font-display: swap;
 		}
 @font-face {
 		font-family: "Anko";
 		src: url("../../assets/css/fonts/Anko-RegularItalic.otf") format("opentype"),
 		url("../../assets/css/fonts/Anko-RegularItalic.otf") format("opentype");
 		font-style: italic;
+		font-display: swap;
 		}
 
 
