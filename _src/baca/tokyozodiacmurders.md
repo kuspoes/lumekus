@@ -44,7 +44,7 @@ Beberapa hari setelah terbunuhnya Heikichi, Kazue ditemukan terbunuh dengan waja
 
 Beberapa pekan kemudian, janda dan anak - anak Heikichi (kandung dan tiri) serta sepupunya pergi bertamasya ke Gunung Yahiko untuk melakukan ritual pelepasan arwah Heikichi. 
 
-Setelah selesai ritua, masing - masing pergi dengan urusan sendiri - sendiri dan sejak saat itu mereka semua menghilang.
+Setelah selesai ritual, masing - masing pergi dengan urusan sendiri - sendiri dan sejak saat itu mereka semua menghilang.
 
 Beberapa bulan kemudian. Mayat - mayat mereka ditemukan terkubur di sekitaran tambang yg ada di seluruh Jepang dengan bagian - bagian tubuh termutilasi seperti di dalam catatan Heikichi. Berita pembunuhan ini menjadi viral di seluruh Jepang dan kasus ini tidak terpecahkan.
 
