@@ -46,6 +46,9 @@
 		}
 
 /* width */
+.w-500 {
+	width: 550px;
+}
 .w-600 {
 	width: 600px;
 }
@@ -894,4 +897,9 @@ input:focus {
   .nav_kanan {
 		width: 250px;
 		text-align: right;
+  }
+  
+  /* Cusdis */
+  .cusdis-thread {
+  
   }
