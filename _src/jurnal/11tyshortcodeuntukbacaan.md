@@ -1,15 +1,15 @@
 ---
-  layout: content/post.njk
-  title: '11ty: Related Books'
-  ringkasan: 'Shortcode untuk menampilkan related books dengan memanfaatkan JSON data'
-  date: 2021-05-02
-  favorit: true
-  update: true
-  tags: jurnal
-  kategori: jurnal
-  code: true
-  keywords: 'eleventy, 11ty, json, global data, tutorial, shortcode'
-  comments: true
+layout: content/post.njk
+title: '11ty: Related Books'
+ringkasan: 'Shortcode untuk menampilkan related books dengan memanfaatkan JSON data'
+date: 2021-05-02
+favorit: true
+update: true
+tags: jurnal
+kategori: jurnal
+code: true
+keywords: 'eleventy, 11ty, json, global data, tutorial, shortcode'
+comments: true
 ---
 
 Di halaman [bacaan](/baca) saya ingin menampilkan relasi buku terkait dengan *review* buku yang saya tulis. Tampilan yang diinginkan adalah seperti [Twitter Cards](https://developer.twitter.com/en/docs/twitter-for-websites/cards/guides/getting-started) dengan gambar dan deskripsi. Gambarnya nanti bisa diisi `coverImg` dari masing - masing artikel baca yang sudah saya tulis.

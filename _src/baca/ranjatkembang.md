@@ -1,31 +1,31 @@
 ---
-    layout: content/baca.njk
-    title : 'Ranjat Kembang'
-    date: 2021-04-11
-    update: true
-    ringkasan: 'Rogot Nyowo sudah dimulai!. Semua anggota Trah Pitu mulai menyiapkan tumbal untuk menyelamatkan diri dari Kudro'
-    keywords: 'Ranjat Kembang, Sewu Dino, Janur Ireng, Simpleman, Trah Pitu, Padusan Pituh, Lemah Layat, Mira, Dela Atmojo'
-    coverImg : 'https://ik.imagekit.io/hjse9uhdjqd/tr:n-cover/buku/ranjat-kembang_EQYxzyfUuZx.jpg'
-    penulis: 'Simpleman'
-    genre: 
-        - Thriller
-        - Mistery
-        - Jawa
-        - Horor
-    format: 'Papperback 310 halaman'
-    bahasa: 'Bahasa Indonesia, Bahasa Jawa'
-    isbn: '978-602-220-399-5'
-    tahun: 2021
-    resensi: 'Setelah memakan ratusan nyawa, perseteruan Trah Pitu menjalar begitu jauh, meneror keturunan termuda dan orang - orang di luar lingkaran keluarga. Buku ini membawa 3 pintu cerita yaitu Padusan Pituh (Mira), Lemah Layat (Agus), dan Kembang Wijayakusuma (Dela Atmojo)'
-    rating: 3
-    beli: https://shopee.co.id/bukune
-    dimana: 'Bukune'
-    kategori: buku
-    tags: 
-        - baca
-        - jurnal
-    comments: true
-    templateEngine: njk,md
+layout: content/baca.njk
+title : 'Ranjat Kembang'
+date: 2021-04-11
+update: true
+ringkasan: 'Rogot Nyowo sudah dimulai!. Semua anggota Trah Pitu mulai menyiapkan tumbal untuk menyelamatkan diri dari Kudro'
+keywords: 'Ranjat Kembang, Sewu Dino, Janur Ireng, Simpleman, Trah Pitu, Padusan Pituh, Lemah Layat, Mira, Dela Atmojo'
+coverImg : 'https://ik.imagekit.io/hjse9uhdjqd/tr:n-cover/buku/ranjat-kembang_EQYxzyfUuZx.jpg'
+penulis: 'Simpleman'
+genre: 
+    - Thriller
+    - Mistery
+    - Jawa
+    - Horor
+format: 'Papperback 310 halaman'
+bahasa: 'Bahasa Indonesia, Bahasa Jawa'
+isbn: '978-602-220-399-5'
+tahun: 2021
+resensi: 'Setelah memakan ratusan nyawa, perseteruan Trah Pitu menjalar begitu jauh, meneror keturunan termuda dan orang - orang di luar lingkaran keluarga. Buku ini membawa 3 pintu cerita yaitu Padusan Pituh (Mira), Lemah Layat (Agus), dan Kembang Wijayakusuma (Dela Atmojo)'
+rating: 3
+beli: https://shopee.co.id/bukune
+dimana: 'Bukune'
+kategori: buku
+tags: 
+    - baca
+    - jurnal
+comments: true
+templateEngine: njk,md
 ---
 
 Menceritakan tentang Dela Atmojo, keturunan terakhir dari Keluarga Atmojo yang selamat dari santet [Sewu Dino](https://kusaeni.com/baca/sewudino/). 

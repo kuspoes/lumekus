@@ -1,18 +1,18 @@
 ---
-  layout: content/post.njk
-  title: 'Migrasi dari Whatsapp' 
-  ringkasan: 'Cara memindahkan data percakapan dari Whatsapp ke Telegram, Signal, atau BIP' 
-  keywords: 'Whatsapp, Signal, Telegram, BIP, migration, migrasi, ekspor, data, export, impor,
-  pindah'
-  date: 2021-05-16
-  update: true 
-  tags:
-      - jurnal
-  kategori: jurnal
-  code: false
-  favorit: false
-  templateEngine: njk,md
-  comments: true
+layout: content/post.njk
+title: 'Migrasi dari Whatsapp' 
+ringkasan: 'Cara memindahkan data percakapan dari Whatsapp ke Telegram, Signal, atau BIP' 
+keywords: 'Whatsapp, Signal, Telegram, BIP, migration, migrasi, ekspor, data, export, impor,
+pindah'
+date: 2021-05-16
+update: true 
+tags:
+    - jurnal
+kategori: jurnal
+code: false
+favorit: false
+templateEngine: njk,md
+comments: true
 ---
 
 Sesuai dengan pemberitahuan dari Whatsapp mengenai [penundaan penerapan *privacy policy*](https://blog.whatsapp.com/giving-more-time-for-our-recent-update) maka per 16 Mei 2021 rencananya akan diaktifkan.

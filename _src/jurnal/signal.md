@@ -1,15 +1,15 @@
 ---
-  layout: content/post.njk
-  title: Signal buruk Whatsapp
-  ringkasan: 'Perubahan privacy policy Whatsapp, resiko dan solusi alternatifnya.'
-  date: 2021-01-09
-  update: true
-  code: false
-  favorit: false
-  kategori: jurnal
-  tags: jurnal
-  templateEngine: njk,md
-  comments: true
+layout: content/post.njk
+title: Signal buruk Whatsapp
+ringkasan: 'Perubahan privacy policy Whatsapp, resiko dan solusi alternatifnya.'
+date: 2021-01-09
+update: true
+code: false
+favorit: false
+kategori: jurnal
+tags: jurnal
+templateEngine: njk,md
+comments: true
 ---
 
 Awal tahun ini pengguna app Whatsapp mendapatkan notifikasi perubahan *[privacy policy](https://www.whatsapp.com/legal/privacy-policy)* baru dari Facebook pemilik dari layanan Whatsapp.

@@ -1,28 +1,28 @@
 ---
-    layout: content/baca.njk
-    title : 'Janur Ireng'
-    date: 2021-02-14
-    ringkasan: 'Awal mula petaka yang dinanti'
-    keywords: 'Janur Ireng, Sewu Dino, Ranjat Kembang, Simpleman, SimpleM81378523, Horor, Santet, Trah Pitu, KKN Desa Penari, Kuncoro, Sabdo'
-    coverImg : 'https://ik.imagekit.io/hjse9uhdjqd/tr:n-cover/buku/janurIreng_aSww35pkIg4.jpg'
-    penulis: 'Simpleman'
-    genre: 
-        - Horror
-        - Jawa
-    format: 'Papperback 295  halaman'
-    bahasa: 'Bahasa Indonesia, Bahasa Jawa'
-    isbn: '978-602-220-364-3'
-    tahun: 2020
-    resensi: 'Ingatan hitam yang menyeruak dan membuka tabir gelap sebuah peristiwa masa lampau yang perlahan merangkak naik dan menunjukkan kilasan kepedihan dari sebuah perjanjian sedarah yang kental. Kisah dalam buku ini jauh lebih kelam dan gelap dibandingkan dengan Sewu Dino. Cukup lelah membacanya.'
-    rating: 3
-    beli: https://shopee.co.id/bukune
-    dimana: 'Bukune Store di Shopee'
-    kategori: buku
-    tags: 
-     - baca
-     - jurnal
-    templateEngine: njk,md
-    comments: true
+layout: content/baca.njk
+title : 'Janur Ireng'
+date: 2021-02-14
+ringkasan: 'Awal mula petaka yang dinanti'
+keywords: 'Janur Ireng, Sewu Dino, Ranjat Kembang, Simpleman, SimpleM81378523, Horor, Santet, Trah Pitu, KKN Desa Penari, Kuncoro, Sabdo'
+coverImg : 'https://ik.imagekit.io/hjse9uhdjqd/tr:n-cover/buku/janurIreng_aSww35pkIg4.jpg'
+penulis: 'Simpleman'
+genre: 
+    - Horror
+    - Jawa
+format: 'Papperback 295  halaman'
+bahasa: 'Bahasa Indonesia, Bahasa Jawa'
+isbn: '978-602-220-364-3'
+tahun: 2020
+resensi: 'Ingatan hitam yang menyeruak dan membuka tabir gelap sebuah peristiwa masa lampau yang perlahan merangkak naik dan menunjukkan kilasan kepedihan dari sebuah perjanjian sedarah yang kental. Kisah dalam buku ini jauh lebih kelam dan gelap dibandingkan dengan Sewu Dino. Cukup lelah membacanya.'
+rating: 3
+beli: https://shopee.co.id/bukune
+dimana: 'Bukune Store di Shopee'
+kategori: buku
+tags: 
+ - baca
+ - jurnal
+templateEngine: njk,md
+comments: true
 ---
 
 Ini adalah buku ketiga dari [Simpleman](https://twitter.com/SimpleM81378523) setelah KKN di Desa Penari dan [Sewu Dino](https://kusaeni.com/baca/sewudino/) dan merupakan buku ke 2 dari serie saga Trah Pitoe atau legenda 7 keluarga yang memperebutkan puncak kehormatan dan kekayaan.

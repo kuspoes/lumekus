@@ -1,34 +1,34 @@
 ---
-    layout: content/baca.njk
-    title : 'The Newcomer'
-    date: 2021-04-25
-    update: true
-    ringkasan: 'Seorang wanita terbunuh di Nihonbashi, detektif datang menyelidikinya dan
-    ditemukan banyak orang bisa menjadi tersangka'
-    keywords: 'Keigo Higashino, Kaga, detektif, Pembunuhan di Nihonbashi, The Newcomer, Jepang, Misteri, Novel'
-    coverImg : 'https://ik.imagekit.io/hjse9uhdjqd/tr:n-cover/buku/thenewcomer_jNnlkJXcfB.jpg'
-    penulis: 'Keigo Higashino'
-    genre: 
-        - Thriller
-        - Mistery
-    format: 'Papperback - 304 halaman'
-    bahasa: 'Bahasa Indonesia'
-    isbn: '978-602-06-2190-6'
-    tahun: 2020 (cetakan kedua)
-    resensi: 'Detektif Kaga baru saja dipindahkan ke Nihonbashi, Tokyo. Dia memang pendatang baru
-    namun memiliki banyak pengalaman dalam menyelidiki kasus kriminal. Langsung bergabung dengan
-    penyelidikan pembunuhan seorang wanita. Semakin dalam diselidiki semakin banyak kemungkinan
-    tersangkanya. Bahkan hampir semua orang yang tinggal di dekat rumah korban memiliki motif
-    sebagai pelakunya.'
-    rating: 5
-    beli: https://www.bukukita.com/Buku-Novel/Mistery-Thriller/166582-Pembunuhan-di-Nihonbashi.html 
-    dimana: Bukukita
-    kategori: buku
-    comments: true
-    tags: 
-        - baca
-        - jurnal
-    templateEngine: njk,md
+layout: content/baca.njk
+title : 'The Newcomer'
+date: 2021-04-25
+update: true
+ringkasan: 'Seorang wanita terbunuh di Nihonbashi, detektif datang menyelidikinya dan
+ditemukan banyak orang bisa menjadi tersangka'
+keywords: 'Keigo Higashino, Kaga, detektif, Pembunuhan di Nihonbashi, The Newcomer, Jepang, Misteri, Novel'
+coverImg : 'https://ik.imagekit.io/hjse9uhdjqd/tr:n-cover/buku/thenewcomer_jNnlkJXcfB.jpg'
+penulis: 'Keigo Higashino'
+genre: 
+    - Thriller
+    - Mistery
+format: 'Papperback - 304 halaman'
+bahasa: 'Bahasa Indonesia'
+isbn: '978-602-06-2190-6'
+tahun: 2020 (cetakan kedua)
+resensi: 'Detektif Kaga baru saja dipindahkan ke Nihonbashi, Tokyo. Dia memang pendatang baru
+namun memiliki banyak pengalaman dalam menyelidiki kasus kriminal. Langsung bergabung dengan
+penyelidikan pembunuhan seorang wanita. Semakin dalam diselidiki semakin banyak kemungkinan
+tersangkanya. Bahkan hampir semua orang yang tinggal di dekat rumah korban memiliki motif
+sebagai pelakunya.'
+rating: 5
+beli: https://www.bukukita.com/Buku-Novel/Mistery-Thriller/166582-Pembunuhan-di-Nihonbashi.html 
+dimana: Bukukita
+kategori: buku
+comments: true
+tags: 
+    - baca
+    - jurnal
+templateEngine: njk,md
 ---
 
 Ini adalah buku pertama Keigo Higashino yang saya baca, saya terpengaruh setelah membaca

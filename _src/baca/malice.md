@@ -1,33 +1,33 @@
 ---
-    layout: content/baca.njk
-    title : 'Malice : Catatan Pembunuhan sang Novelis'
-    date: 2021-11-07
-    update: false
-    ringkasan: 'Seorang novelis terkenal ditemukan tewas mengenaskan di rumahnya,di dalam ruangan tertutup oleh istri dan sahabat baiknya.'
-    keywords: 'Keigo Higashino, Kaga, detektif, Malice, Pembunuhan di Nihonbashi, The Newcomer, Jepang, Misteri, Novel'
-    coverImg : 'https://ik.imagekit.io/hjse9uhdjqd/tr:n-cover/buku/malice_1GM7H7NhPlD.jpg'
-    penulis: 'Keigo Higashino'
-    genre: 
-        - Thriller
-        - Mistery
-    format: 'Papperback - 304 halaman'
-    bahasa: 'Bahasa Indonesia'
-    isbn: '978-602-06-2190-6'
-    tahun: 2020 (cetakan kedua)
-    resensi: 'Detektif Kaga baru saja dipindahkan ke Nihonbashi, Tokyo. Dia memang pendatang baru
-    namun memiliki banyak pengalaman dalam menyelidiki kasus kriminal. Langsung bergabung dengan
-    penyelidikan pembunuhan seorang wanita. Semakin dalam diselidiki semakin banyak kemungkinan
-    tersangkanya. Bahkan hampir semua orang yang tinggal di dekat rumah korban memiliki motif
-    sebagai pelakunya.'
-    rating: 5
-    beli: https://www.bukukita.com/Buku-Novel/Mistery-Thriller/166582-Pembunuhan-di-Nihonbashi.html 
-    dimana: Bukukita
-    tags: 
-        - baca
-        - jurnal
-    kategori: buku
-    templateEngine: njk,md
-    comments: true
+layout: content/baca.njk
+title : 'Malice : Catatan Pembunuhan sang Novelis'
+date: 2021-11-07
+update: false
+ringkasan: 'Seorang novelis terkenal ditemukan tewas mengenaskan di rumahnya,di dalam ruangan tertutup oleh istri dan sahabat baiknya.'
+keywords: 'Keigo Higashino, Kaga, detektif, Malice, Pembunuhan di Nihonbashi, The Newcomer, Jepang, Misteri, Novel'
+coverImg : 'https://ik.imagekit.io/hjse9uhdjqd/tr:n-cover/buku/malice_1GM7H7NhPlD.jpg'
+penulis: 'Keigo Higashino'
+genre: 
+    - Thriller
+    - Mistery
+format: 'Papperback - 304 halaman'
+bahasa: 'Bahasa Indonesia'
+isbn: '978-602-06-2190-6'
+tahun: 2020 (cetakan kedua)
+resensi: 'Detektif Kaga baru saja dipindahkan ke Nihonbashi, Tokyo. Dia memang pendatang baru
+namun memiliki banyak pengalaman dalam menyelidiki kasus kriminal. Langsung bergabung dengan
+penyelidikan pembunuhan seorang wanita. Semakin dalam diselidiki semakin banyak kemungkinan
+tersangkanya. Bahkan hampir semua orang yang tinggal di dekat rumah korban memiliki motif
+sebagai pelakunya.'
+rating: 5
+beli: https://www.bukukita.com/Buku-Novel/Mistery-Thriller/166582-Pembunuhan-di-Nihonbashi.html 
+dimana: Bukukita
+tags: 
+    - baca
+    - jurnal
+kategori: buku
+templateEngine: njk,md
+comments: true
 ---
 
 Ini adalah buku kedua dari Keigo Higashino yang saya beli setelah [The Newcomer](/baca/theNewComer). Ditasbihkan sebagai salah satu buku _bestselling_ dan menjadi buku rujukan untuk dibaca oleh para novelist di Jepang, membuat saya bereskpektasi tinggi untuk memiliki dan membacanya.

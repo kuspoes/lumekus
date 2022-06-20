@@ -1,29 +1,29 @@
 ---
-    layout: content/baca.njk
-    title : 'Tokyo Zodiac Murder'
-    date: 2018-09-11
-    favorit: true
-    ringkasan: 'Plot Pembunuhan yang sempurna, tiada yang berhasil mengungkapnya'
-    keywords: 'Soji Shimada, Tokyo Zodiac Murder, Misteri, Novel, Mitarai'
-    coverImg : 'https://ik.imagekit.io/hjse9uhdjqd/tr:n-cover/buku/tokyozodiacmurder_41AsxiBkF.jpg'
-    penulis: 'Soji Shimada'
-    genre: 
-        - Thriller
-        - Mistery
-        - Detective
-    format: 'Papperback 260 halaman'
-    bahasa: 'Bahasa Indonesia'
-    isbn: '9789792285918'
-    tahun: 2012
-    resensi: 'Novel tentang kasus pembunuhan yang telah menggemparkan seluruh Jepang. pembunuhan yang melibatkan keluarga Umezawa dan orang-orang di sekitar keluarga tersebut. Selama lebih dari empat puluh tahun, kasus ini menjadi misteri. Banyak orang berusaha untuk memecahkannya, tak ada yang berhasil. '
-    rating: 5
-    beli: https://www.bukukita.com/Buku-Novel/Mistery-Thriller/104734-The-Tokyo-Zodiac-Murders-Pembunuhan-Zodiac-Tokyo.html
-    dimana: 'Bukukita'
-    kategori: buku
-    comments: true
-    tags: 
-        - baca
-        - jurnal
+layout: content/baca.njk
+title : 'Tokyo Zodiac Murder'
+date: 2018-09-11
+favorit: true
+ringkasan: 'Plot Pembunuhan yang sempurna, tiada yang berhasil mengungkapnya'
+keywords: 'Soji Shimada, Tokyo Zodiac Murder, Misteri, Novel, Mitarai'
+coverImg : 'https://ik.imagekit.io/hjse9uhdjqd/tr:n-cover/buku/tokyozodiacmurder_41AsxiBkF.jpg'
+penulis: 'Soji Shimada'
+genre: 
+    - Thriller
+    - Mistery
+    - Detective
+format: 'Papperback 260 halaman'
+bahasa: 'Bahasa Indonesia'
+isbn: '9789792285918'
+tahun: 2012
+resensi: 'Novel tentang kasus pembunuhan yang telah menggemparkan seluruh Jepang. pembunuhan yang melibatkan keluarga Umezawa dan orang-orang di sekitar keluarga tersebut. Selama lebih dari empat puluh tahun, kasus ini menjadi misteri. Banyak orang berusaha untuk memecahkannya, tak ada yang berhasil. '
+rating: 5
+beli: https://www.bukukita.com/Buku-Novel/Mistery-Thriller/104734-The-Tokyo-Zodiac-Murders-Pembunuhan-Zodiac-Tokyo.html
+dimana: 'Bukukita'
+kategori: buku
+comments: true
+tags: 
+    - baca
+    - jurnal
 ---
 
 Tahun 1936 (dalam periode Showa) setelah Perang Dunia ke-2, seorang pelukis tua sekaligus *playboy* bernama **Heikichi Umezawa** tergila - gila dengan astrologi dan kimia memiliki sosok perempuan khayalannya yang diberi nama **Azoth**.

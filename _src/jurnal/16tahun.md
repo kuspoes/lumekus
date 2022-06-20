@@ -1,15 +1,15 @@
 ---
-    layout: content/post.njk
-    title: 16 tahun
-    ringkasan: 'Hampir sweet-seventeen! Bagaimana perjalanan domain ini?'
-    date: 2020-08-22
-    tags:
-        - tentang
-        - jurnal
-    kategori: jurnal
-    favorit: false
-    comments: true
-    engine: md, njk
+layout: content/post.njk
+title: 16 tahun
+ringkasan: 'Hampir sweet-seventeen! Bagaimana perjalanan domain ini?'
+date: 2020-08-22
+tags:
+    - tentang
+    - jurnal
+kategori: jurnal
+favorit: false
+comments: true
+engine: md, njk
 ---
 
 Pada saat jurnal ini ditulis, tidak terasa sudah hampir 16 tahun usia domain ini.

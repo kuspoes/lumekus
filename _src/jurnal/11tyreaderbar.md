@@ -1,15 +1,15 @@
 ---
-  layout: content/post.njk
-  title: '11ty: Reader Bar'
-  ringkasan: 'Menambahkan Reader Bar sebagai indikator halaman dan bagaimana cara memodif-ikasinya'
-  date: 2021-04-23
-  update: false
-  tags:
-      - jurnal
-  kategori: jurnal
-  code: true
-  favorit: false
-  comments: true
+layout: content/post.njk
+title: '11ty: Reader Bar'
+ringkasan: 'Menambahkan Reader Bar sebagai indikator halaman dan bagaimana cara memodif-ikasinya'
+date: 2021-04-23
+update: false
+tags:
+    - jurnal
+kategori: jurnal
+code: true
+favorit: false
+comments: true
 ---
 
 Reader Bar awalnya dibuat untuk [jQuery](https://jquery.com) yang dipergunakan untuk meng-visualisasikan panjang dan posisi *scroll* halaman melalui garis memanjang horisontal (biasanya ada di pinggir bagian atas halaman) dan sebuah tombol fungsi untuk kembali ke awal halaman.

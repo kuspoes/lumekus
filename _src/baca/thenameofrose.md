@@ -1,29 +1,29 @@
 ---
-    layout: content/baca.njk
-    title : 'The Name of Rose'
-    date: 2019-10-17
-    favorit: true   
-    ringkasan: '7 Deaths in 7 Days and Nights of Apocalyptic Terror'
-    keywords: 'The Name of Rose, Il nome dela Rosa, Umberto Eco, Misteri'
-    coverImg : 'https://ik.imagekit.io/hjse9uhdjqd/tr:n-cover/buku/theNameofRose_1ED96afur.jpg'
-    penulis: 'Umberto Eco'
-    genre: 
-        - Thriller
-        - Mistery
-        - Detective
-    format: 'Papperback 592 halaman'
-    bahasa: 'Inggris'
-    isbn: '10-0446344109'
-    tahun: 1986
-    resensi: 'Tahun 1327. Seorang rahib Inggris William dari Baskerville dikirim ke sebuah biara tua di Italia untuk menyelidiki kasus bunuh diri seorang rahib muda. Sebuah kisah misteri yang sangat bagus, mengkombinasikan unsur religi, history, misteri, thriller. Namun referensi yang mendalam dalam sejarah abad pertengahan kadang membuat bosan.'
-    rating: 4
-    beli: https://www.bukalapak.com/products/s/the-name-the-rose
-    dimana: Bukalapak
-    kategori: buku
-    comments: true
-    tags: 
-        - baca
-        - jurnal
+layout: content/baca.njk
+title : 'The Name of Rose'
+date: 2019-10-17
+favorit: true   
+ringkasan: '7 Deaths in 7 Days and Nights of Apocalyptic Terror'
+keywords: 'The Name of Rose, Il nome dela Rosa, Umberto Eco, Misteri'
+coverImg : 'https://ik.imagekit.io/hjse9uhdjqd/tr:n-cover/buku/theNameofRose_1ED96afur.jpg'
+penulis: 'Umberto Eco'
+genre: 
+    - Thriller
+    - Mistery
+    - Detective
+format: 'Papperback 592 halaman'
+bahasa: 'Inggris'
+isbn: '10-0446344109'
+tahun: 1986
+resensi: 'Tahun 1327. Seorang rahib Inggris William dari Baskerville dikirim ke sebuah biara tua di Italia untuk menyelidiki kasus bunuh diri seorang rahib muda. Sebuah kisah misteri yang sangat bagus, mengkombinasikan unsur religi, history, misteri, thriller. Namun referensi yang mendalam dalam sejarah abad pertengahan kadang membuat bosan.'
+rating: 4
+beli: https://www.bukalapak.com/products/s/the-name-the-rose
+dimana: Bukalapak
+kategori: buku
+comments: true
+tags: 
+    - baca
+    - jurnal
 ---
 
 **Il Nome della Rosa** adalah judul asli buku ini dalam bahasa Italia dan alasan terbesar saya membeli novel ini adalah karena [Ustadz Salimafillah](https://salimafillah.com/) menyebut novel ini di salah satu [post Instagram](https://www.instagram.com/p/BckEkv2hq6Q/?utm_source=ig_web_copy_link) beliau, sebagai salah satu novel detektif favoritnya.
