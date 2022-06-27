@@ -1,5 +1,5 @@
 @media screen and (max-width: 800px) {
-	.container {
+	.container, .w-500 {
 		width: 100%
 	}
 	
@@ -135,6 +135,8 @@
 	.bintang {
 		width: 16px;
 	}
+	
+	
 }
 
 @media screen and (min-width: 500px) and (max-width: 800px) {
@@ -142,6 +144,9 @@
 		width: 100%;
 		grid-template-columns: 1fr 1fr 1fr;
 		column-gap: 0.5em;
+	}
+	.w-500, .post-navigation {
+		width: 100%
 	}
 
 	
@@ -152,7 +157,7 @@
 		width: 95% !important;
 	}
 
-	.buku {
+	.buku, .w-500, .post-navigation {
 		width: 98%;
 	}
 

@@ -5,7 +5,7 @@
 
 <div class="selayang">
 			<div class="selayang__cover">
-            <img class="layang" src="{{ coverImg }}" alt="">
+            <img class="layang" src="{{ coverImg }}" alt="{{ title }}">
 			</div>
 			<div class="selayang__meta">
 				<dl>
@@ -24,8 +24,8 @@
             </dl>
 			</div>
 </div>
-{{ content | safe }}
 
+{{ content | safe }}
 
 <div class="post-navigation">
    <div class="nav_kiri"> 

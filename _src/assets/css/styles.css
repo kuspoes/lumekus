@@ -82,7 +82,7 @@ html {
 
 body {
 	color:var(--hitam-slip);
-  	margin: 0;
+  margin: 0;
 }
 
 
@@ -109,8 +109,8 @@ mark {
 
 .container {
 	min-height: 100%;
-  	position: relative;
-  	overflow: hidden;
+  position: relative;
+  overflow: hidden;
 }
 
 
@@ -119,13 +119,13 @@ mark {
 	background-position: left 0px bottom 0px, left 50px bottom 0px;
 	background-repeat: no-repeat;
 	content: '';
-    height: 100%;
-    left: 0;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    will-change: transform;
-    z-index: -1;
+  height: 100%;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  will-change: transform;
+  z-index: -1;
 }
 
 
@@ -252,6 +252,7 @@ header {
 		width: 650px
 	}
 
+span.cool:hover { color: #ef476f;  } 
 
 p {
 	margin: 0.5em auto 1em;
@@ -336,21 +337,21 @@ ol {
 ol li::before {
 	content: counter(li); 
 	color: red;
-  	display: inline-block; 
-  	width: 1em;
-  	margin-left: -1.5em;
-   margin-right: 0.5em; 
-   text-align: right; 
-   direction: rtl;
-   font: 1em/1 Georgia, serif;
+  display: inline-block; 
+  width: 1em;
+  margin-left: -1.5em;
+  margin-right: 0.5em; 
+  text-align: right; 
+  direction: rtl;
+  font: 1em/1 Georgia, serif;
   }
 
 ul li::before {
 	content: "•"; color: red;
-  	display: inline-block; 
-  	width: 1em;
-  	font-size: 1.5em;
-  	margin-left: -1em
+  display: inline-block; 
+  width: 1em;
+  font-size: 1.5em;
+  margin-left: -1em
   }
 
 ul {
@@ -656,11 +657,15 @@ video {
 	text-decoration: underline;
 }
 
+.d__art li:hover span.cool {
+	color: #ef476f;
+}
+
 .dtime {
 	font: 0.95rem/1 var(--sans);
-    text-align: right;
-    flex: none;
-    margin-left: .5rem;
+  text-align: right;
+  flex: none;
+  margin-left: .5rem;
 }
 
 .footer {
