@@ -30,7 +30,7 @@ templateEngine: njk,md
 comments: true
 ---
 
-Ini adalah buku kedua dari Keigo Higashino yang saya beli setelah [The Newcomer](/baca/theNewComer). Ditasbihkan sebagai salah satu buku _bestselling_ dan menjadi buku rujukan untuk dibaca oleh para novelist di Jepang, membuat saya bereskpektasi tinggi untuk memiliki dan membacanya.
+Ini adalah buku kedua dari Keigo Higashino yang saya beli setelah [The Newcomer](/baca/thenewcomer). Ditasbihkan sebagai salah satu buku _bestselling_ dan menjadi buku rujukan untuk dibaca oleh para novelist di Jepang, membuat saya bereskpektasi tinggi untuk memiliki dan membacanya.
 
  {% relasi "thenewcomer_jNnlkJXcfB.jpg", "The Newcomer", "Keigo Higashino", "/baca/thenewcomer" %}
  Seorang wanita terbunuh di Nihonbashi, detektif datang menyelidikinya dan ditemukan banyak orang bisa menjadi tersangka
